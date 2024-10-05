@@ -17,14 +17,14 @@ Make sure you have the following installed on your machine:
 
 ## Getting Started
 
-   git clone (https://github.com/Thyshark/Refined-Todo-list.git)
-   cd todo-app
-   cd server
-   npm install
-   cd ../client
-   npm install
-   setup MongoDB
-   npm run dev--To run both the server and the client concurrently
+ -  git clone (https://github.com/Thyshark/Refined-Todo-list.git)
+ - cd todo-app
+ -  cd server
+ - npm install
+ - cd ../client
+ -npm install
+ - setup MongoDB
+ - npm run dev--To run both the server and the client concurrently
 
    ## Note
 
